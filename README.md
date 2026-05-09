@@ -1,1 +1,1 @@
-# tareas-An-lisis-de-algoritmos-
+# tareas-Analisis-de-algoritmos-
